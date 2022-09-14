@@ -4,6 +4,9 @@
  
  <i>Details</i>
  <li>A image is rendered. you are suppose to mark all the 11 planets(+ dwarf planets) with a circular area the sun with a rectangle area.</li>
+ 
  <li>All the area should a href defined</li>
+ 
  <li>All the area should have a coords defined</li>
+ 
  <li> All the area should have a shape defined</li>
